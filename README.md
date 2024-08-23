@@ -4,7 +4,7 @@
   <div class="band"></div>
 </div>
 
-.container {
+container{
   position: relative;
   width: 300px;
   height: 200px;
@@ -13,7 +13,7 @@
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-.name {
+name{
   position: absolute;
   top: 50%;
   left: 50%;
@@ -23,7 +23,7 @@
   color: #333;
 }
 
-.band {
+band{
   position: absolute;
   top: 0;
   left: 0;
